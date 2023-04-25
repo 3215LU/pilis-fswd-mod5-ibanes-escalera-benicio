@@ -41,6 +41,7 @@ npx install
 mirar pagina web
 https://reactnavigation.org/docs/getting-started
 ALGUNOS COMANDOS UTILES SI NO FUNCIONA el anterior
+                    
           npm install @react-navigation/native
           npm install react-native-screens react-native-safe-area-context
           npm install @react-navigation/bottom-tabs
