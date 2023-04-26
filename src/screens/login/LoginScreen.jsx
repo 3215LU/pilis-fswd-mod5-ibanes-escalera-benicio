@@ -34,7 +34,7 @@ export const LoginScreen = () => {
       })
       .catch(err => console.warn(err))
   }
-
+  
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Inicio de Sesión</Text>
