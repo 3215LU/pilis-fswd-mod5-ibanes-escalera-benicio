@@ -7,10 +7,6 @@ import { getLocationList } from '../../api/location.service'
 import { Ionicons } from '@expo/vector-icons'
 import { COLORS } from '../../utils/theme'
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 1cc4c0e0fb142989bc6bb2aa02462a69e372baf8
 export const LocationListScreen = ({ navigation }) => {
   const [searchQuery, setSearchQuery] = useState('')
   const [locationList, setLocationList] = useState([])
