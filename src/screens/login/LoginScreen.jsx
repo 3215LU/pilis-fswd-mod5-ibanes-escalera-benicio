@@ -20,6 +20,7 @@ export const LoginScreen = () => {
   const handleRegistration = ({}) => {
     navigation.navigate("RegisterForm")
   }
+
   const handleLogin = ({ username, password }) => {
     getUsers()
       .then(users => {
