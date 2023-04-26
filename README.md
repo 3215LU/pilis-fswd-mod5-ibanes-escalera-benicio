@@ -7,11 +7,6 @@ Este proyecto esta realizado con REACT-NATIVE
                                                       PARA INGRESAR
 USERNAME: ema 
 PASSWORD: ema
-USERNAME: roxy 
-PASSWORD: roxy
-USERNAME: wally 
-PASSWORD: wally
-
 
 Trayecto de Formación: FullStack Web Developer 🚀
 📦 Módulo 5: Desarrollo Movit con React Native TRABAJO FINAL GRUPAL
