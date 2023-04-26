@@ -4,6 +4,10 @@
 DecTech Podcast Web 📢
 Este proyecto esta realizado con REACT-NATIVE
 
+                                                      PARA INGRESAR
+USERNAME: ema 
+PASSWORD: ema
+
 
 Trayecto de Formación: FullStack Web Developer 🚀
 📦 Módulo 5: Desarrollo Movit con React Native TRABAJO FINAL GRUPAL
@@ -21,7 +25,7 @@ Fecha de presentación sábado 22 de abril 10:00am
 
 Se tomará como trabajo presentado at repositorio creado especialmente para esta práctica y se controlarán que las consignas estén debidamente realizadas, en caso contrario, se descontarán puntos o se rechazará el trabajo completo
 
-                                                                    OBJETIVO
+                                                     OBJETIVO
 
 Sugerimos encarecidamente que sea ordenado al resolver las consignas y revise que las mismas cumplan con todo lo indicado.
 
@@ -29,7 +33,7 @@ Este proyecto consiste en desarrollar una aplicación de eventos en la provincia
 
 La API a utilizar será creada por el mismo equipo donde tomarán decisiones en cuanto a la estructura de los datos. Para esto se recomienda utilizar mockAPI (https://mockapi.io donde se puede crear el endpoint con los datos que se desea retornara la aplicación cliente.
 
-                                                          Puntos para desarrollar
+                                                   Puntos para desarrollar
 
 1. El usuario podrá navegar en una lista de eventos/festivales
 
@@ -70,7 +74,7 @@ En caso de incorporar estilos en la interfaz u otro elemento importante que dese
 ¡Muchos Éxitos!
 
 
-                                                                            Introducción
+                                                  Introducción
 Hola! 😄 es un proyecto con Visual Studio Code, Git y Github, expo 👏 Es muy excelente la propuesta de crear una app.
 
 Instalación
