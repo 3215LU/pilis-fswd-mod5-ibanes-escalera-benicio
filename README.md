@@ -6,12 +6,16 @@ Este proyecto esta realizado con REACT-NATIVE
 
                                                       PARA INGRESAR
 USERNAME: roxy
+
 PASSWORD: roxy
+
+
 
 
 USERNAME: wally
 
 PASSWORD: wally
+
 
 
 
