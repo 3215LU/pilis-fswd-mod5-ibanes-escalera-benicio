@@ -5,8 +5,20 @@ DecTech Podcast Web 📢
 Este proyecto esta realizado con REACT-NATIVE
 
                                                       PARA INGRESAR
+USERNAME: roxy
+PASSWORD: roxy
+
+USERNAME: wally
+PASSWORD: wally
+
+
 USERNAME: ema 
 PASSWORD: ema
+
+
+
+
+
 
 Trayecto de Formación: FullStack Web Developer 🚀
 📦 Módulo 5: Desarrollo Movit con React Native TRABAJO FINAL GRUPAL
