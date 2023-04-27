@@ -8,11 +8,16 @@ Este proyecto esta realizado con REACT-NATIVE
 USERNAME: roxy
 PASSWORD: roxy
 
+
 USERNAME: wally
+
 PASSWORD: wally
 
 
+
+
 USERNAME: ema 
+
 PASSWORD: ema
 
 
